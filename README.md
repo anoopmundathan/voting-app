@@ -1,2 +1,2 @@
 # voting-app
-React App
+React App - Fullstack React Sample Chapter
